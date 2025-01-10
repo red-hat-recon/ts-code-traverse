@@ -1,0 +1,3 @@
+input_source:
+  - "leavearchiver.js"
+output_directory: "outputs"
